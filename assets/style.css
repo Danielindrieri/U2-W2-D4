@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+body {
+  font-family: "inter";
+  font-weight: 600;
+}
+
+main .fs-7 {
+  font-size: 1.1em;
+}
+
+.bg-purple {
+  background-color: #7550FE;
+}
+
+.pink {
+  background-color: #FFEEDA;
+}/*# sourceMappingURL=style.css.map */
